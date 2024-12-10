@@ -175,7 +175,7 @@ function init() {
 
   //by default, avnishpatel143 ki info show krre h UI pr
   
-  getUserData(url + "avnishpatel143");
+  getUserData(url + "AvaneeshKumarPatel");
 }
 
 init();
